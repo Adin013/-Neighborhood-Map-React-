@@ -14,6 +14,6 @@ It is a single page app uses React Google maps and the location-based service Fo
 
 + Reactjs
 + HTML
-+CSS
++ CSS
 + Foursquare API
-+Google Maps API
++ Google Maps API

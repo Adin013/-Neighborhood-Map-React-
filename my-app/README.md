@@ -1,10 +1,8 @@
 # Neighborhood Map React
----
 
 It is a single page app uses React Google maps and the location-based service Foursquare API to list some attractions in Berlin. 
 
 ## Local Installation
-----
 
 + Make sure that you have **Node.js** installed on your local and then clone this repository.
 + Open up Git Bash in this location.
@@ -13,7 +11,6 @@ It is a single page app uses React Google maps and the location-based service Fo
 + Open http://localhost:3000
 
 ## Resources
----
 
 + Reactjs
 + HTML
